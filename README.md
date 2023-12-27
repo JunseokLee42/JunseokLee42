@@ -1,4 +1,6 @@
-Hi there 👋 I am an undergraduate who dreams of contributing to the open-source community.
+### Hi there 👋 
+
+I am an undergraduate who dreams of contributing to the open-source community.
 
 During my time at the NANUS startup, I developed an interest in AI including NLP.
 
