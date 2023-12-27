@@ -17,7 +17,7 @@ AGI, Multi-modality
 
 ### 💪 Skills
 
-#### Programming Skills(Not yet)
+#### Programming Skills(Not Completed)
 <p>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>
 </p>
