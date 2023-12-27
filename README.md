@@ -4,7 +4,7 @@ I am an undergraduate who dreams of contributing to the open-source community.
 
 During my time at the NANUS startup, I developed an interest in AI including NLP.
 
-However, I encounterd numerous challenges in developing an application from scracth, even a demo version.
+However, I encounterd numerous challenges in developing an application from scratch, even a demo version.
 
 This experience led me to wish for guidance from an assistant.
 
