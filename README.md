@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Hi there 👋 공사중입니다.. 프로그래밍 언어는 저거 아니에요
 <p>
 I am an undergraduate who dreams of contributing to the open-source community.
 
@@ -17,7 +17,7 @@ AGI, Multi-modality
 
 ### 💪 Skills
 
-#### Programming Skills
+#### Programming Skills(Not yet)
 <p>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>
 </p>
