@@ -1,16 +1,17 @@
-Hi there 👋 I'm one of undergraduate dreaming of contributing open source community.
+Hi there 👋 I am an undergraduate who dreams of contributing to the open-source community.
 
-When working in NANUS start-up, I became interested in AI including NLP.
+During my time at the NANUS startup, I developed an interest in AI including NLP.
 
-However, there were a lot of limits to solely implement an application from scratch despite of demo version.
+However, I encounterd numerous challenges in developing an application from scracth, even a demo version.
 
-After the frustration, I hoped someone taught me as an assistant.
+This experience led me to wish for guidance from an assistant.
 
-I believe that AI could serve as an assistant around us.
+I believe that AI has the potential to serve as a helpful assistant in our daily lives.
 
 ## Research Interests
 
-AGI, Multi-modality, 
+AGI, Multi-modality
+
 
 <!--
 **shoveling42/shoveling42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
