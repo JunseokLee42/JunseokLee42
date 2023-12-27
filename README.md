@@ -1,5 +1,5 @@
 ### Hi there 👋 
-
+<p>
 I am an undergraduate who dreams of contributing to the open-source community.
 
 During my time at the NANUS startup, I developed an interest in AI including NLP.
@@ -9,10 +9,18 @@ However, I encounterd numerous challenges in developing an application from scra
 This experience led me to wish for guidance from an assistant.
 
 I believe that AI has the potential to serve as a helpful assistant in our daily lives.
+</p>
 
-## Research Interests
+### Research Interests
 
 AGI, Multi-modality
+
+### 💪 Skills
+
+#### Programming Skills
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>
+</p>
 
 
 <!--
