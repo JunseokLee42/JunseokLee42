@@ -1,4 +1,4 @@
-### Hi there 👋 공사중입니다.. 프로그래밍 언어는 저거 아니에요
+### Hi there 👋
 <p>
 I am an undergraduate who dreams of contributing to the open-source community.
 
@@ -14,14 +14,6 @@ I believe that AI has the potential to serve as a helpful assistant in our daily
 ### Research Interests
 
 AGI, Multi-modality
-
-### 💪 Skills
-
-#### Programming Skills(Not Completed)
-<p>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>
-</p>
-
 
 <!--
 **shoveling42/shoveling42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
