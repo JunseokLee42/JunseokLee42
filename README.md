@@ -15,6 +15,30 @@ I believe that AI has the potential to serve as a helpful assistant in our daily
 
 AGI, Multi-modality
 
+<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=shoveling42&show_icons=true&locale=en&theme=tokyonight" alt="shoveling42" /></p>
+
+## 🔨 Languages & Frameworks & Skills ⭐️:
+
+#### 🙊 - Database:
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### DevOps ♾️:
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+### Others:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+### IDEs and Tools 🛠:
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+
 <!--
 **shoveling42/shoveling42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
