@@ -15,9 +15,7 @@ I believe that AI has the potential to serve as a helpful assistant in our daily
 
 AGI, Multi-modality
 
-<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=shoveling42&show_icons=true&locale=en&theme=tokyonight" alt="shoveling42" /></p>
-
-## Languages & & Skills ⭐️:
+## Languages & & Skills:
 
 ### Database:
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
