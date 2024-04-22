@@ -7,13 +7,13 @@ During my time at the NANUS startup, I developed an interest in AI including NLP
 However, I encounterd numerous challenges in developing an application from scratch, even a demo version.
 
 This experience led me to wish for guidance from an assistant.
-
-I believe that AI has the potential to serve as a helpful assistant in our daily lives.
 </p>
 
 ### Research Interests
 
-AGI, Multi-modality
+Nowadays, I'm interested in multimodal topics, especially in 1) Multimodal Chain-of-Thought, 2) Video Question Answering, 3) Visual Programming.
+
+Ultimately, I wish the marginalized continues to learn what they want via multimodal LLM without any difficulties.
 
 ## Languages & & Skills:
 
