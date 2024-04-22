@@ -11,11 +11,12 @@ This experience led me to wish for guidance from an assistant.
 
 ### Research Interests
 
-I'm interested in multimodal topics towards AGI,(multimodality refers to language, vision, and audio(the last one is mere interest)).
+I'm interested in multimodal downstream tasks towards AGI which is more human-like than AI.
 
-Nowadays, I'm developing interests especially 1) Multimodal Chain-of-Thought, 2) Video Question Answering, 3) Visual Programming.
+Nowadays, I'm developing interests especially in 1) Multimodal Chain-of-Thought, 2) Video Question Answering, 3) Visual Programming.
 
-Ultimately, I wish the marginalized continues to learn what they want via multimodal LLM without any difficulties.
+Ultimately, I wish the marginalized continues to learn what they want via multimodal LLM without any difficulties
+(In other words, I want combination of personalized and collective learning).
 
 ## Languages & & Skills:
 
