@@ -1,4 +1,4 @@
-### Hi there 👋
+### Motivation for studying AI
 <p>
 I am an undergraduate who dreams of contributing to the open-source community.
 
