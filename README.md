@@ -11,7 +11,9 @@ This experience led me to wish for guidance from an assistant.
 
 ### Research Interests
 
-Nowadays, I'm interested in multimodal topics, especially in 1) Multimodal Chain-of-Thought, 2) Video Question Answering, 3) Visual Programming.
+I'm interested in multimodal topics towards AGI,(multimodality refers to language, vision, and audio(the last one is mere interest)).
+
+Nowadays, I'm developing interests especially 1) Multimodal Chain-of-Thought, 2) Video Question Answering, 3) Visual Programming.
 
 Ultimately, I wish the marginalized continues to learn what they want via multimodal LLM without any difficulties.
 
