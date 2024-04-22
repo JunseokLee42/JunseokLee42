@@ -15,8 +15,9 @@ I'm interested in multimodal downstream tasks towards AGI which is more human-li
 
 Nowadays, I'm developing interests especially in 1) Multimodal Chain-of-Thought, 2) Video Question Answering, 3) Visual Programming.
 
-Ultimately, I wish the marginalized continues to learn what they want via multimodal LLM without any difficulties
-(In other words, I want combination of personalized and collective learning).
+Ultimately, I wish the marginalized continues to learn what they want via multimodal LLM without any difficulties.
+
+Also, I aim to combine personalized learning with cooperative study.
 
 ## Languages & & Skills:
 
