@@ -17,7 +17,7 @@ Nowadays, I'm developing interests especially in 1) Multimodal Chain-of-Thought,
 
 Ultimately, I wish the marginalized continues to learn what they want via multimodal LLM without any difficulties.
 
-Furthermore, I aim to combine personalized learning with cooperative study.
+I aim to combine personalized learning with cooperative study in the future.
 
 ## Languages & & Skills:
 
