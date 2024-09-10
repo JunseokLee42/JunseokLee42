@@ -19,6 +19,10 @@ Ultimately, I wish the marginalized continues to learn what they want via multim
 
 I aim to combine personalized learning with cooperative study in the future.
 
+### Reviews
+
+[aura-voice](https://github.com/ntegrals/aura-voice/issues/21)
+
 ## Languages & & Skills:
 
 ### Database:
