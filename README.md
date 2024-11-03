@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Junseok Lee</h1>
-<h3 align="center">Undergraduate who dreams of contributing to the AI open-source community.</h3>
+<h3 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Undergraduate+who+dreams+of+contributing+to+the+AI+open-source+community)](https://git.io/typing-svg)</h3>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunseokLee42&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
