@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Junseok Lee</h1>
 <h3 align="center">Undergraduate who dreams of contributing to the AI open-source community.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=junseoklee42&label=Profile%20views&color=0e75b6&style=flat" alt="junseoklee42" /> </p>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunseokLee42&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <h3 align="left">Connect with me: behindstarter42@korea.ac.kr</h3>
 <p align="left">
