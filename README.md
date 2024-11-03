@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junseoklee42&label=Profile%20views&color=0e75b6&style=flat" alt="junseoklee42" /> </p>
 
-<h3 align="left">Connect with me: [behindstarter42@korea.ac.kr](behindstarter42@korea.ac.kr)</h3>
+<h3 align="left">Connect with me: behindstarter42@korea.ac.kr</h3>
 <p align="left">
 </p>
 
