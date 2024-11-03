@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Junseok Lee</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=4BF71D&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Junseok+Lee" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1000&lines=Undergraduate+who+dreams+of+contributing+to+the+AI+open-source+community" alt="Typing SVG" /></a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunseokLee42&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
