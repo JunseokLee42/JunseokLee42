@@ -37,3 +37,7 @@ I aim to combine personalized learning with cooperative study in the future.
 ### Reviews
 
 [aura-voice](https://github.com/ntegrals/aura-voice/issues/21)
+
+### PRs
+
+[magma by microsoft](https://github.com/microsoft/Magma/pull/33)
