@@ -32,10 +32,10 @@ Ultimately, I wish the marginalized continues to learn what they want via multim
 
 I aim to combine personalized learning with cooperative study in the future.
 
-### Reviews
+### Contributions
 
 [aura-voice](https://github.com/ntegrals/aura-voice/issues/21)
 
-### PRs
-
 [magma by microsoft](https://github.com/microsoft/Magma/pull/33)
+
+[Add MME benchmark explanation on paperswithcode](https://paperswithcode.com/task/mme?image_moderation=1)
