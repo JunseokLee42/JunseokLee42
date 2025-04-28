@@ -37,5 +37,3 @@ I aim to combine personalized learning with cooperative study in the future.
 [aura-voice](https://github.com/ntegrals/aura-voice/issues/21)
 
 [magma by microsoft](https://github.com/microsoft/Magma/pull/33)
-
-[Add MME benchmark explanation on paperswithcode](https://paperswithcode.com/task/mme?image_moderation=1)
